@@ -15,7 +15,7 @@ minifyOutput = true
 
 [params]
 env = "production"
-title = "ExampleSite"
+title = "Umer Jamil"
 description = "ExampleSite description"
 keywords = [ "Blog", "Portfolio", "PaperMod" ]
 author = "Umer Jamil"
@@ -52,7 +52,7 @@ tocopen = false
   iconHeight = 35
 
   [params.profileMode]
-  enabled = true
+  enabled = false
   title = "Umer Jamil"
   subtitle = "This is subtitle"
   imageUrl = "<img location>"
