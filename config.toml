@@ -70,19 +70,23 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "Welcome to my blog, Its umer here"
+  Content = "I have created his blog to document everything - my personal learning, technica stuff etc. 
+  
+  Currently, I am working as a Cloud DevOps Engineer at Rayn Group
+  "
 
   [[params.socialIcons]]
   name = "twitter"
-  url = "https://twitter.com/"
-
+  url = "https://twitter.com/umerjamil_"
+  
   [[params.socialIcons]]
-  name = "stackoverflow"
-  url = "https://stackoverflow.com"
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/umerjamil/"
 
   [[params.socialIcons]]
   name = "github"
-  url = "https://github.com/"
+  url = "https://github.com/umerjamil16"
+
 
 [params.analytics.google]
 SiteVerificationTag = "XYZabc"
