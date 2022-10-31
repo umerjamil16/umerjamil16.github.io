@@ -70,8 +70,7 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = "I have created his blog to document everything - my personal learning, technica stuff etc. Currently, I am working as a Cloud DevOps Engineer at Rayn Group. I hold a BE and MS in Robotics and AI from NUST, Pakistan.
-  "
+  Content = "I have created his blog to document everything - my personal learning, technica stuff etc. Currently, I am working as a Cloud DevOps Engineer at Rayn Group. I hold a BE and MS in Robotics and AI from NUST, Pakistan."
 
   [[params.socialIcons]]
   name = "twitter"
