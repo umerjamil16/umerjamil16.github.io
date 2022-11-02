@@ -1,4 +1,4 @@
-\---
+---
 
 title: "Installing tp-link Archer T2U plus WiFi adapter drivers on Ubuntu 22.04"
 
@@ -6,11 +6,9 @@ date: 2022-09-02T19:42:38+05:00
 
 draft: false
 
-\---
+---
 
 # Installing tp-link Archer T2U plus WiFi adapter drivers on Ubuntu 22.04
-
-#   
 
 So recently I bought a tp link Archer T2U plus wifi adapter and install it drivers on my Ubuntu 20.04 laptop. Here are the installation steps I went through:
 
