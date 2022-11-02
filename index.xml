@@ -55,5 +55,21 @@
       <description>Desc Text.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://umerjamil16.github.io/posts/post-tp-link-a2u-plus-wifi-adapter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/post-tp-link-a2u-plus-wifi-adapter/</guid>
+      <description>-&amp;ndash;
+title: &amp;ldquo;Installing tp-link Archer T2U plus WiFi adapter drivers on Ubuntu 22.04&amp;rdquo;
+date: 2022-09-02T19:42:38+05:00
+draft: false
+-&amp;ndash;
+Installing tp-link Archer T2U plus WiFi adapter drivers on Ubuntu 22.04  So recently I bought a tp link Archer T2U plus wifi adapter and install it drivers on my Ubuntu 20.04 laptop. Here are the installation steps I went through:
+1. Check USB connection
+ &amp;gt;&amp;gt; lsusb Bus 004 Device 001: ID 1d6b:0003 Linux Foundation 3.</description>
+    </item>
+    
   </channel>
 </rss>
