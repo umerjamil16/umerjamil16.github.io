@@ -21,7 +21,7 @@ This is a must thing. Having personal and work level OKRs to bring clarity, clea
 
 We have all heard the famous saying ‘Fail fast, learn faster’. However, the failing and learning process should be part of the planning and budgeting process with proper constraints in place. 
 
-To help facilitate the overall engineering process, the work culture should reward ‘automation’. Automation should be culturally driven. There should be considerable efforts and resources on experimentation (with automation supporting this). Fasters the experiences you run (ML-Adeel), faster you learn
+To help facilitate the overall engineering process, the work culture should reward ‘automation’. Automation should be culturally driven. There should be considerable efforts and resources on experimentation (with automation supporting this). Fasters the experiences you run, faster you learn
 
 Furthermore, design twice and write once - meaning you should give 2x time to your engineering design process as compared to doing the actual writing code.
 
