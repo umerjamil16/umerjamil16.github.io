@@ -38,3 +38,10 @@ Considerable thought process should go into projects where deep domain knowledge
 5.  Sense of belonging
 
 Engineering process has to be organic. Team relationships usually grow beyond work. The culture should be such that people try to go beyond the task and cover for each other. Team builds their own unique culture.
+
+
+Here you can watch the full talk:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/F1kMW1vhDa8/0.jpg)](https://www.youtube.com/watch?v=F1kMW1vhDa8&ab_channel=Emumba)
+
+
