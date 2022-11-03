@@ -3,7 +3,7 @@
 
 title: "Attributes of High Performance Engineering Teams by Zia Syed | Emumba Tech Talks | Notes"
 
-date: 2022-11-03T19:42:38+05:00
+date: 2022-10-03T19:42:38+05:00
 
 draft: false
 
