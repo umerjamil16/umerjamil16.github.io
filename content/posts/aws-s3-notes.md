@@ -4,7 +4,7 @@ date: 2022-11-23T11:30:03+00:00
 tags: ["AWS"]
 author: "Umer Jamil"
 cover:
-    image: "https://miro.medium.com/max/580/1*DHe24MbDHtbkOeIJzxrfdA.png" # image path/url
+    image: https://miro.medium.com/max/580/1*DHe24MbDHtbkOeIJzxrfdA.png
     alt: "AWS S3" # alt text
     caption: "AWS S3" # display caption under cover
 ---
