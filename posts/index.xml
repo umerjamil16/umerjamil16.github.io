@@ -9,7 +9,19 @@
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 19:42:38 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://umerjamil16.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AWS S3 - Notes</title>
+      <link>https://umerjamil16.github.io/posts/aws-s3-notes/</link>
+      <pubDate>Wed, 23 Nov 2022 11:30:03 +0000</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/aws-s3-notes/</guid>
+      <description>AWS S3 S3 is the most famous and earliest product by AWS. Following here are my notes about it.
+Storage Types There are there main storage types:
+ Block Storage File Storage Object Storage  Block Storage   Block storage is an architectural design that enables the storage of data onto media such as a hard disk, in fixed-sized chunks.
+  On AWS, block storage options are available as Elastic Block Store (EBS).</description>
+    </item>
+    
     <item>
       <title>Attributes of High Performance Engineering Teams by Zia Syed | Emumba Tech Talks | Notes</title>
       <link>https://umerjamil16.github.io/posts/attr-high-perf-teams/</link>
