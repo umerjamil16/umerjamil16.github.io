@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://umerjamil16.github.io/sitemap.xml
