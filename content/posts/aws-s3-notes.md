@@ -17,7 +17,7 @@ cover:
 S3 is the most famous and earliest product by AWS. Following here are my notes about it.
 
 ## Storage Types
-There are there main storage types:
+There are three main storage types:
 - Block Storage
 - File Storage
 - Object Storage
