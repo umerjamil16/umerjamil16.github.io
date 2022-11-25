@@ -31,4 +31,4 @@ DevOps is the evolution of software development lifecycle. Last week, at [Rayn](
 ![Slide 16](./devops-intro-png/devops-intro-16.png "Slide 16")
 ![Slide 17](./devops-intro-png/devops-intro-17.png "Slide 17")
 
-Thank you for reading.
+Thank you for for your time.
