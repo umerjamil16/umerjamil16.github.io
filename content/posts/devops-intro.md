@@ -9,8 +9,6 @@ author: "Umer Jamil"
 
 
 
-# Introduction to DevOps  
-
 DevOps is the evolution of software development lifecycle. Last week, at [Rayn](https://www.rayn.group/), I gave a talk on DevOps, the process, the methodology, and how adopting DevOps can help IT and business team. The presentation content is as follows:
 
 ![Slide 1](https://raw.githubusercontent.com/umerjamil16/umerjamil16.github.io/main/content/posts/devops-intro-png/devops-intro-01.png)
