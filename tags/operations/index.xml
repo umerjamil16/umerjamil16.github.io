@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>AWS on Umer Jamil </title>
-    <link>https://umerjamil16.github.io/tags/aws/</link>
-    <description>Recent content in AWS on Umer Jamil </description>
+    <title>Operations on Umer Jamil </title>
+    <link>https://umerjamil16.github.io/tags/operations/</link>
+    <description>Recent content in Operations on Umer Jamil </description>
     <image>
       <url>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 28 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/operations/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to DevOps</title>
       <link>https://umerjamil16.github.io/posts/devops-intro-v2/</link>
@@ -27,18 +27,6 @@
       <guid>https://umerjamil16.github.io/posts/devops-intro/</guid>
       <description>Introduction to DevOps DevOps is the evolution of software development lifecycle. Last week, at Rayn, I gave a talk on DevOps, the process, the methodology, and how adopting DevOps can help IT and business team. The presentation content is as follows:
 Thank you for for your time.</description>
-    </item>
-    
-    <item>
-      <title>AWS S3 - Notes</title>
-      <link>https://umerjamil16.github.io/posts/aws-s3-notes/</link>
-      <pubDate>Wed, 23 Nov 2022 11:30:03 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/posts/aws-s3-notes/</guid>
-      <description>AWS S3 S3 is the most famous and earliest product by AWS. Following here are my notes about it.
-Storage Types There are three main storage types:
- Block Storage File Storage Object Storage  Block Storage   Block storage is an architectural design that enables the storage of data onto media such as a hard disk, in fixed-sized chunks.
-  On AWS, block storage options are available as Elastic Block Store (EBS).</description>
     </item>
     
   </channel>

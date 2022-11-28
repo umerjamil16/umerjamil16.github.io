@@ -9,7 +9,26 @@
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 23 Nov 2022 11:30:03 +0000</lastBuildDate><atom:link href="https://umerjamil16.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Introduction to DevOps</title>
+      <link>https://umerjamil16.github.io/posts/devops-intro-v2/</link>
+      <pubDate>Mon, 28 Nov 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/devops-intro-v2/</guid>
+      <description>Introduction to DevOps </description>
+    </item>
+    
+    <item>
+      <title>Introduction to DevOps</title>
+      <link>https://umerjamil16.github.io/posts/devops-intro/</link>
+      <pubDate>Mon, 28 Nov 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/devops-intro/</guid>
+      <description>Introduction to DevOps DevOps is the evolution of software development lifecycle. Last week, at Rayn, I gave a talk on DevOps, the process, the methodology, and how adopting DevOps can help IT and business team. The presentation content is as follows:
+Thank you for for your time.</description>
+    </item>
+    
     <item>
       <title>AWS S3 - Notes</title>
       <link>https://umerjamil16.github.io/posts/aws-s3-notes/</link>
