@@ -70,13 +70,11 @@ tocopen = false
 
   [params.homeInfoParams]
   Title = "Hi there 👋"
-  Content = """\
+  Content = """
   I am Cloud DevOps engineer working at the Rayn Group. My primary work is in the area of DevOps, Mobile DevOps, DevSecOps, AWS Cloud and MLOps. \
-  My focus is on Cloud Native technologies and building SaaS platforms. \
-  
-  On weekends, I like to go for cycling, long walks, and mountain trekking:man-mountain-biking \
-  On the literary side, my interests are in philosophy, history, and comparative religion. \
-  
+  My focus is on Cloud Native technologies and building SaaS platforms.   
+  On weekends, I like to go for cycling, long walks, and mountain trekking:man-mountain-biking 
+  On the literary side, my interests are in philosophy, history, and comparative religion. 
   I hold a Bachelors and Masters degree in Engineering from National University of Sciences & Technology (NUST).
   """
 
@@ -108,8 +106,8 @@ SiteVerificationTag = "XYZabc"
   hiddenInSingle = true
 
   [params.editPost]
-  URL = "https://github.com/<path_to_repo>/content"
-  Text = "Suggest Changes"
+  URL = "#"
+  Text = "Suggest Changes (Disabled)"
   appendFilePath = true
 
   [params.fuseOpts]
@@ -133,11 +131,7 @@ name = "tags"
 url = "/tags/"
 weight = 20
 
-[[menu.main]]
-identifier = "example"
-name = "example.org"
-url = "https://example.org"
-weight = 30
+
 
 [markup.highlight]
 noClasses = false
