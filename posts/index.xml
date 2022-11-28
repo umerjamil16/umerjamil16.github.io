@@ -12,16 +12,6 @@
     <lastBuildDate>Mon, 28 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to DevOps</title>
-      <link>https://umerjamil16.github.io/posts/devops-intro-v2/</link>
-      <pubDate>Mon, 28 Nov 2022 11:00:00 +0500</pubDate>
-      
-      <guid>https://umerjamil16.github.io/posts/devops-intro-v2/</guid>
-      <description>Introduction to DevOps DevOps is the evolution of software development lifecycle. Last week, at Rayn, I gave a talk on DevOps, the process, the methodology, and how adopting DevOps can help IT and business team. The presentation content is as follows:
-Thank you for for your time.</description>
-    </item>
-    
-    <item>
-      <title>Introduction to DevOps</title>
       <link>https://umerjamil16.github.io/posts/devops-intro/</link>
       <pubDate>Mon, 28 Nov 2022 11:00:00 +0500</pubDate>
       
