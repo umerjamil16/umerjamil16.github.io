@@ -1,7 +1,7 @@
 ---
 
 title: "Containerizing Kaldi - the speech recognition toolkit"
-date: 2022-11-30T11:00:00+05:00
+date: 2022-11-29T11:00:00+05:00
 tags: ["Kaldi","DevOps", "ASR", "Speech Recognition", "Docker", "Operations"]
 author: "Umer Jamil"
 
