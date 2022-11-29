@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Operations on Umer Jamil </title>
-    <link>https://umerjamil16.github.io/tags/operations/</link>
-    <description>Recent content in Operations on Umer Jamil </description>
+    <title>Speech Recognition on Umer Jamil </title>
+    <link>https://umerjamil16.github.io/tags/speech-recognition/</link>
+    <description>Recent content in Speech Recognition on Umer Jamil </description>
     <image>
       <url>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/operations/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/speech-recognition/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Containerizing Kaldi - the speech recognition toolkit</title>
       <link>https://umerjamil16.github.io/posts/kaldi_docker/</link>
@@ -18,16 +18,6 @@
       <guid>https://umerjamil16.github.io/posts/kaldi_docker/</guid>
       <description>Kaldi is a very popular Automatic Speech Recognition (ASR) toolkit. In my experience, setting up Kaldi on a system can take huge amount of time. Therefore, it is best to use containerization approach.
 Following is the Dockerfile that I wrote. We will be using a cuda enabled Ubuntu 18.04 image from Nvidia NGC:</description>
-    </item>
-    
-    <item>
-      <title>Introduction to DevOps</title>
-      <link>https://umerjamil16.github.io/posts/devops-intro/</link>
-      <pubDate>Mon, 28 Nov 2022 11:00:00 +0500</pubDate>
-      
-      <guid>https://umerjamil16.github.io/posts/devops-intro/</guid>
-      <description>DevOps is the evolution of software development lifecycle. Last week, at Rayn, I gave a talk on DevOps, the process, the methodology, and how adopting DevOps methodology can help IT and business teams. The presentation content is as follows:
-Thank you for for your time. Hope you liked the content.</description>
     </item>
     
   </channel>
