@@ -17,7 +17,8 @@
       
       <guid>https://umerjamil16.github.io/posts/kaldi_docker/</guid>
       <description>Kaldi is a very popular Automatic Speech Recognition (ASR) toolkit. In my experience, setting up Kaldi on a system can take huge amount of time. Therefore, it is best to use containerization approach.
-Following is the Dockerfile that I wrote. We will be using a cuda enabled Ubuntu 18.04 image from Nvidia NGC:</description>
+Following is the Dockerfile that I wrote. We will be using a cuda enabled Ubuntu 18.04 image from Nvidia NGC:
+FROM nvidia/cuda:11.1.1-cudnn8-devel-ubuntu18.04 LABEL Author=&amp;#34;umerjamil16@github.io&amp;#34; Email=&amp;#34;umer1694@gmail.com&amp;#34; LABEL Description=&amp;#34;Kaldi ASR Image&amp;#34; Vendor=&amp;#34;x&amp;#34; Version=&amp;#34;1.0&amp;#34; RUN sh -c &amp;#39;echo &amp;#34;APT { Get { AllowUnauthenticated \&amp;#34;1\&amp;#34;; }; };&amp;#34; &amp;gt; /etc/apt/apt.</description>
     </item>
     
   </channel>
