@@ -191,7 +191,7 @@ Let's do a quick summary comparison.
 | | Latency optimized via large caches | High throughput |
 | Weakness |  Relatively low memory bandwidth
 | | Cache misses very costly | Relatively low memory capacity|
-Low performance/ watt | Low per thread performance each core runs at ~1 Ghz i.e. 4 times slower than CPU core |
+| | Low performance/ watt | Low per thread performance each core runs at ~1 Ghz i.e. 4 times slower than CPU core |
 
 In short:
 
