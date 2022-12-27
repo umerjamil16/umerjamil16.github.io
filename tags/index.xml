@@ -9,22 +9,85 @@
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ASR</title>
-      <link>https://umerjamil16.github.io/tags/asr/</link>
-      <pubDate>Tue, 29 Nov 2022 11:00:00 +0500</pubDate>
+      <title>Deep Learning</title>
+      <link>https://umerjamil16.github.io/tags/deep-learning/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
       
-      <guid>https://umerjamil16.github.io/tags/asr/</guid>
+      <guid>https://umerjamil16.github.io/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DevOps</title>
       <link>https://umerjamil16.github.io/tags/devops/</link>
-      <pubDate>Tue, 29 Nov 2022 11:00:00 +0500</pubDate>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPU</title>
+      <link>https://umerjamil16.github.io/tags/gpu/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/gpu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPUs</title>
+      <link>https://umerjamil16.github.io/tags/gpus/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/gpus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://umerjamil16.github.io/tags/machine-learning/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MLOps</title>
+      <link>https://umerjamil16.github.io/tags/mlops/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/mlops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nvidia</title>
+      <link>https://umerjamil16.github.io/tags/nvidia/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/nvidia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Operations</title>
+      <link>https://umerjamil16.github.io/tags/operations/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ASR</title>
+      <link>https://umerjamil16.github.io/tags/asr/</link>
+      <pubDate>Tue, 29 Nov 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/asr/</guid>
       <description></description>
     </item>
     
@@ -43,15 +106,6 @@
       <pubDate>Tue, 29 Nov 2022 11:00:00 +0500</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/kaldi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Operations</title>
-      <link>https://umerjamil16.github.io/tags/operations/</link>
-      <pubDate>Tue, 29 Nov 2022 11:00:00 +0500</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/operations/</guid>
       <description></description>
     </item>
     
@@ -106,60 +160,6 @@
       <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/first/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>https://umerjamil16.github.io/tags/deep-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/deep-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPU</title>
-      <link>https://umerjamil16.github.io/tags/gpu/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/gpu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GPUs</title>
-      <link>https://umerjamil16.github.io/tags/gpus/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/gpus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Machine Learning</title>
-      <link>https://umerjamil16.github.io/tags/machine-learning/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MLOps</title>
-      <link>https://umerjamil16.github.io/tags/mlops/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/mlops/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nvidia</title>
-      <link>https://umerjamil16.github.io/tags/nvidia/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/tags/nvidia/</guid>
       <description></description>
     </item>
     

@@ -9,7 +9,17 @@
       <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 29 Nov 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 26 Dec 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/devops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing a reasonable understanding of GPUs for ML Workloads</title>
+      <link>https://umerjamil16.github.io/posts/gpus-1/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/gpus-1/</guid>
+      <description>This blog is intended to develop a “breadth” level understanding of GPUs, and not a “depth” level. My aim will be to build a “reasonable” understanding that will help in our hardware decision-making for managing ML/DL workloads and pipelines from the perspective of an ML/MLOps Engineer. This blog does not contain comparisons of different GPU architectures for ML workloads.
+Before diving, let&amp;rsquo;s quickly recap some key terminologies which will be used in upcoming paras.</description>
+    </item>
+    
     <item>
       <title>Containerizing Kaldi - the speech recognition toolkit</title>
       <link>https://umerjamil16.github.io/posts/kaldi_docker/</link>
@@ -29,16 +39,6 @@ FROM nvidia/cuda:11.1.1-cudnn8-devel-ubuntu18.04 LABEL Author=&amp;#34;umerjamil
       <guid>https://umerjamil16.github.io/posts/devops-intro/</guid>
       <description>DevOps is the evolution of software development lifecycle. Last week, at Rayn, I gave a talk on DevOps, the process, the methodology, and how adopting DevOps methodology can help IT and business teams. The presentation content is as follows:
 Thank you for for your time. Hope you liked the content.</description>
-    </item>
-    
-    <item>
-      <title>Developing a reasonable understanding of GPUs for ML Workloads</title>
-      <link>https://umerjamil16.github.io/posts/gpus-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://umerjamil16.github.io/posts/gpus-1/</guid>
-      <description>This blog is intended to develop a “breadth” level understanding of GPUs, and not a “depth” level. My aim will be to build a “reasonable” understanding that will help in our hardware decision-making for managing ML/DL workloads and pipelines from the perspective of an ML/MLOps Engineer. This blog does not contain comparisons of different GPU architectures for ML workloads.
-Before diving, let&amp;rsquo;s quickly recap some key terminologies which will be used in upcoming paras.</description>
     </item>
     
   </channel>
