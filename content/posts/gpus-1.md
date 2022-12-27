@@ -6,6 +6,8 @@ tags: ["MLOps","DevOps", "Nvidia", "GPU", "Operations", "GPUs", "Machine Learnin
 author: "Umer Jamil"
 
 ---
+![GPU picture ](https://static.techspot.com/articles-info/2486/images/2022-06-21-image-16-j_1100.webp)
+
 This blog is intended to develop a “breadth” level understanding of GPUs, and not a “depth” level. My aim will be to build a “reasonable” understanding that will help in our hardware decision-making for managing ML/DL workloads and pipelines from the perspective of an ML/MLOps Engineer. This blog does not contain comparisons of different GPU architectures for ML workloads.
 
 Before diving, let's quickly recap some key terminologies which will be used in upcoming paras. 
