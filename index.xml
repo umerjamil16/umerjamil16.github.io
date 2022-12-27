@@ -74,5 +74,15 @@ Following are my notes and some of the points presented by Zia.
       <description>Desc Text.</description>
     </item>
     
+    <item>
+      <title>Developing reasonable understnding of GPU for ML Workloads</title>
+      <link>https://umerjamil16.github.io/posts/gpus-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/gpus-1/</guid>
+      <description>This blog is intended to develop a “breadth” level understanding of GPUs, and not a “depth” level. My aim will be to build a “reasonable” understanding that will help in our hardware decision-making for managing ML/DL workloads and pipelines from the perspective of an ML/MLOps Engineer. This blog does not contain comparisons of different GPU architectures for ML workloads.
+Before diving, let&amp;rsquo;s quickly recap some key terminologies which will be used in upcoming paras.</description>
+    </item>
+    
   </channel>
 </rss>
