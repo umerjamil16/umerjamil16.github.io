@@ -1,6 +1,6 @@
 ---
 
-title: "Developing reasonable understnding of GPU for ML Workloads"
+title: "Developing a reasonable understanding of GPUs for ML Workloads"
 date: 2022-12-26:00:00+05:00
 tags: ["MLOps","DevOps", "Nvidia", "GPU", "Operations", "GPUs", "Machine Learning", "Deep Learning"]
 author: "Umer Jamil"
