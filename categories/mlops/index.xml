@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>MLOps on Umer Jamil </title>
+    <link>https://umerjamil16.github.io/categories/mlops/</link>
+    <description>Recent content in MLOps on Umer Jamil </description>
+    <image>
+      <url>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Dec 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/categories/mlops/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Developing a reasonable understanding of GPUs for ML Workloads</title>
+      <link>https://umerjamil16.github.io/posts/gpus-1/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/gpus-1/</guid>
+      <description>This blog is intended to develop a “breadth” level understanding of GPUs, and not a “depth” level. My aim will be to build a “reasonable” understanding that will help in our hardware decision-making for managing ML/DL workloads and pipelines from the perspective of an ML/MLOps Engineer. This blog does not contain comparisons of different GPU architectures for ML workloads.
+Before diving, let&amp;rsquo;s quickly recap some key terminologies which will be used in upcoming paras.</description>
+    </item>
+    
+  </channel>
+</rss>

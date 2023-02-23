@@ -38,6 +38,9 @@
     <loc>https://umerjamil16.github.io/tags/workplace/</loc>
     <lastmod>2023-02-19T11:00:00+05:00</lastmod>
   </url><url>
+    <loc>https://umerjamil16.github.io/categories/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
     <loc>https://umerjamil16.github.io/tags/deep-learning/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
@@ -53,10 +56,19 @@
     <loc>https://umerjamil16.github.io/tags/gpus/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
+    <loc>https://umerjamil16.github.io/categories/gpus/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
     <loc>https://umerjamil16.github.io/tags/machine-learning/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
+    <loc>https://umerjamil16.github.io/categories/machine-learning/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
     <loc>https://umerjamil16.github.io/tags/mlops/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/categories/mlops/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/tags/nvidia/</loc>
@@ -109,7 +121,5 @@
   </url><url>
     <loc>https://umerjamil16.github.io/posts/my-first-post/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
-  </url><url>
-    <loc>https://umerjamil16.github.io/categories/</loc>
   </url>
 </urlset>
