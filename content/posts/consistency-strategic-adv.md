@@ -3,6 +3,7 @@
 title: "Consistency as a Strategic Advantage"
 date: 2023-02-19T11:00:00+05:00
 tags: ["Consistancy", "Leadership", "Workplace"]
+categories: ["Career", "Professional Development"]
 author: "Umer Jamil"
 
 ---
