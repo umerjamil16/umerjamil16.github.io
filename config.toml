@@ -71,23 +71,10 @@ tocopen = false
   [params.homeInfoParams]
   Title = "Hi there 👋"
   Content = """
-It’s a work in progress. Here is what I do know about me, but please let me know if you know more
+I am Cloud DevOps engineer working at the Rayn Group. My primary work is in the area of DevOps, Mobile DevOps, DevSecOps, AWS Cloud and MLOps. My focus is on Cloud Native technologies and building SaaS platforms.
+On weekends, I like to go for cycling, long walks, and mountain trekking.
 
-I am a cyclist and pedal around 10 km daily.
-I love solo traveling, hiking, and mountain trekking (unless I am joined by someone intellectual and we can discuss some of the most complex ideas of life).
-I keep a journal.
-I am an avid book reader. Genres included: Autobiography, Biography, Memoirs, Encyclopedia, Psychology, Science, and Technology
-
-Currently, I am working as a Cloud DevOps engineer working at the Rayn Group. My primary work is in the area of DevOps, Mobile DevOps, DevSecOps, AWS Cloud and MLOps. My focus is on Cloud Native technologies and building SaaS platforms.
-Moreover, I’ve expertise in the following areas:
-
-DevOps and MLOps
-Automatic Speech Recognition (ASR) and Computer Vision
-Robotics: Kinematics, Motion Planning, Path Planning, Manipulation, Localisation, Perception 
-
-I hold a BE in Mechatroncis and MS in Robotics and AI from NUST, Pakistan.
-
-
+On the literary side, my interests are in philosophy, history, and comparative religion. 
   """
 
   [[params.socialIcons]]
