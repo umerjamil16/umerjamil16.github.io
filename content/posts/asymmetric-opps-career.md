@@ -3,6 +3,7 @@
 title: "Hitting Sixes to No Balls in Your Career: Identifying Pivotal Moments for Asymmetric Returns"
 date: 2023-02-21T11:00:00+05:00
 tags: ["Career", "Leadership", "Impact", "Visibility", "Professional Development"]
+categories:  ["Career","Leadership", "Professional Development"]
 author: "Umer Jamil"
 
 ---
