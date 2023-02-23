@@ -50,7 +50,22 @@
     <loc>https://umerjamil16.github.io/tags/workplace/</loc>
     <lastmod>2023-02-19T11:00:00+05:00</lastmod>
   </url><url>
+    <loc>https://umerjamil16.github.io/posts/guide-gpu-ml/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/computer-architecture/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/data-parallelism/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/data-processing/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
     <loc>https://umerjamil16.github.io/tags/deep-learning/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/deep-learning-workloads/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/posts/gpus-1/</loc>
@@ -68,10 +83,16 @@
     <loc>https://umerjamil16.github.io/categories/gpus/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
+    <loc>https://umerjamil16.github.io/tags/hardware/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
     <loc>https://umerjamil16.github.io/tags/machine-learning/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/categories/machine-learning/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/memory-bandwidth/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/tags/mlops/</loc>
@@ -84,6 +105,21 @@
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/tags/operations/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/performance/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/shared-memory/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/task-parallelism/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/technical-specifications/</loc>
+    <lastmod>2022-12-26T11:00:00+05:00</lastmod>
+  </url><url>
+    <loc>https://umerjamil16.github.io/tags/tensor-cores/</loc>
     <lastmod>2022-12-26T11:00:00+05:00</lastmod>
   </url><url>
     <loc>https://umerjamil16.github.io/tags/asr/</loc>

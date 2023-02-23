@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Data Parallelism on Umer Jamil </title>
+    <link>https://umerjamil16.github.io/tags/data-parallelism/</link>
+    <description>Recent content in Data Parallelism on Umer Jamil </description>
+    <image>
+      <url>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://umerjamil16.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 26 Dec 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/data-parallelism/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Beginner&#39;s Guide to GPUs for Machine Learning Workloads</title>
+      <link>https://umerjamil16.github.io/posts/guide-gpu-ml/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/guide-gpu-ml/</guid>
+      <description>This blog aims to provide a basic understanding of GPUs for ML/MLOps Engineers, without going into extensive technical details. The focus will be on developing a broad knowledge of GPUs to aid in hardware decision-making for managing ML/DL workloads and pipelines. This blog will not include comparisons of different GPU architectures for ML workloads.
+Before we begin, let&amp;rsquo;s review some key terminologies that will be used throughout this blog:
+ Latency: The time delay between the initiation of a task and the detection of its effects.</description>
+    </item>
+    
+  </channel>
+</rss>

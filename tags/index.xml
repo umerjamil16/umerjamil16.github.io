@@ -74,11 +74,47 @@
     </item>
     
     <item>
+      <title>Computer Architecture</title>
+      <link>https://umerjamil16.github.io/tags/computer-architecture/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/computer-architecture/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Parallelism</title>
+      <link>https://umerjamil16.github.io/tags/data-parallelism/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/data-parallelism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Processing</title>
+      <link>https://umerjamil16.github.io/tags/data-processing/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/data-processing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Deep Learning</title>
       <link>https://umerjamil16.github.io/tags/deep-learning/</link>
       <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning Workloads</title>
+      <link>https://umerjamil16.github.io/tags/deep-learning-workloads/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/deep-learning-workloads/</guid>
       <description></description>
     </item>
     
@@ -110,11 +146,29 @@
     </item>
     
     <item>
+      <title>Hardware</title>
+      <link>https://umerjamil16.github.io/tags/hardware/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Machine Learning</title>
       <link>https://umerjamil16.github.io/tags/machine-learning/</link>
       <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Memory Bandwidth</title>
+      <link>https://umerjamil16.github.io/tags/memory-bandwidth/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/memory-bandwidth/</guid>
       <description></description>
     </item>
     
@@ -142,6 +196,51 @@
       <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
       
       <guid>https://umerjamil16.github.io/tags/operations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Performance</title>
+      <link>https://umerjamil16.github.io/tags/performance/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shared Memory</title>
+      <link>https://umerjamil16.github.io/tags/shared-memory/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/shared-memory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Task Parallelism</title>
+      <link>https://umerjamil16.github.io/tags/task-parallelism/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/task-parallelism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technical Specifications</title>
+      <link>https://umerjamil16.github.io/tags/technical-specifications/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/technical-specifications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tensor Cores</title>
+      <link>https://umerjamil16.github.io/tags/tensor-cores/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/tags/tensor-cores/</guid>
       <description></description>
     </item>
     

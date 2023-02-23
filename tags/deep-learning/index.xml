@@ -11,6 +11,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 26 Dec 2022 11:00:00 +0500</lastBuildDate><atom:link href="https://umerjamil16.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A Beginner&#39;s Guide to GPUs for Machine Learning Workloads</title>
+      <link>https://umerjamil16.github.io/posts/guide-gpu-ml/</link>
+      <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
+      
+      <guid>https://umerjamil16.github.io/posts/guide-gpu-ml/</guid>
+      <description>This blog aims to provide a basic understanding of GPUs for ML/MLOps Engineers, without going into extensive technical details. The focus will be on developing a broad knowledge of GPUs to aid in hardware decision-making for managing ML/DL workloads and pipelines. This blog will not include comparisons of different GPU architectures for ML workloads.
+Before we begin, let&amp;rsquo;s review some key terminologies that will be used throughout this blog:
+ Latency: The time delay between the initiation of a task and the detection of its effects.</description>
+    </item>
+    
+    <item>
       <title>Developing a reasonable understanding of GPUs for ML Workloads</title>
       <link>https://umerjamil16.github.io/posts/gpus-1/</link>
       <pubDate>Mon, 26 Dec 2022 11:00:00 +0500</pubDate>
