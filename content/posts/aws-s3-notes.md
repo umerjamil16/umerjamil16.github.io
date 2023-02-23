@@ -4,6 +4,8 @@ title: "AWS S3 - Notes"
 date: 2022-11-23T11:30:03+00:00
 tags: ["AWS"]
 author: "Umer Jamil"
+categories: ["AWS", "DevOps"]
+
 cover:
     image: https://miro.medium.com/max/580/1*DHe24MbDHtbkOeIJzxrfdA.png
     alt: "AWS S3" # alt text
